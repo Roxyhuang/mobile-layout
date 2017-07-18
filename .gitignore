@@ -1,0 +1,15 @@
+# Created by IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.sass-cache
+# Node
+logs
+*.log
+npm-debug.log*
+node_modules
+dist
+distribution
+*log
+.npm
