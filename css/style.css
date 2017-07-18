@@ -1,0 +1,16 @@
+.item {
+    width: 30%;
+    height: 30%;
+}
+.red {
+    background: red;
+}
+.blue {
+    background: blue;
+}
+.orange {
+    background: orange
+}
+.black {
+    background: black;
+}
